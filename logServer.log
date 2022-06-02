@@ -1,0 +1,46 @@
+июн. 02, 2022 2:48:01 AM ServerOk main
+INFO: server connected on port: 8000
+июн. 02, 2022 2:48:13 AM ServerOk lambda$main$0
+INFO: Client gosha connected
+(id: 18)
+июн. 02, 2022 2:48:13 AM ServerOk lambda$main$0
+INFO: request sent to client gosha
+июн. 02, 2022 2:48:21 AM ServerOk lambda$main$0
+INFO: sent cylinder area
+июн. 02, 2022 2:48:21 AM ServerOk lambda$main$0
+INFO: request sent to client gosha
+июн. 02, 2022 2:48:24 AM ServerOk lambda$main$0
+INFO: the client leaves the server
+июн. 02, 2022 2:50:08 AM ServerOk main
+INFO: server connected on port: 8000
+июн. 02, 2022 2:50:21 AM ServerOk lambda$main$0
+INFO: Client papa connected
+(id: 18)
+июн. 02, 2022 2:50:21 AM ServerOk lambda$main$0
+INFO: request sent to client papa
+июн. 02, 2022 2:50:29 AM ServerOk lambda$main$0
+INFO: sent cube area
+июн. 02, 2022 2:50:29 AM ServerOk lambda$main$0
+INFO: request sent to client papa
+июн. 02, 2022 2:50:33 AM ServerOk lambda$main$0
+INFO: the client leaves the server
+июн. 02, 2022 2:50:41 AM ServerOk lambda$main$0
+INFO: Client mama connected
+(id: 22)
+июн. 02, 2022 2:50:54 AM ServerOk lambda$main$0
+INFO: request sent to client mama
+июн. 02, 2022 2:51:42 AM ServerOk lambda$main$0
+INFO: sent cylinder area
+июн. 02, 2022 2:51:42 AM ServerOk lambda$main$0
+INFO: request sent to client mama
+июн. 02, 2022 2:51:46 AM ServerOk lambda$main$0
+INFO: the client leaves the server
+июн. 02, 2022 7:43:43 PM ServerOk main
+INFO: server connected on port: 8000
+июн. 02, 2022 7:48:48 PM ServerOk main
+INFO: server connected on port: 8000
+июн. 02, 2022 7:49:01 PM ServerOk lambda$main$0
+INFO: Client gosha connected
+(id: 18)
+июн. 02, 2022 7:49:01 PM ServerOk lambda$main$0
+INFO: request sent to client gosha
