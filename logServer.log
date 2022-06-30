@@ -21,3 +21,12 @@ INFO: Пользователь: gosha
 Порт:60508
 июн. 23, 2022 12:59:11 AM ServerOk lambda$main$1
 INFO: Пользователь вышел
+июн. 27, 2022 3:41:47 PM ServerOk main
+INFO: server connected on port: 8000
+июн. 27, 2022 3:41:56 PM ServerOk main
+INFO: Клиент подключился
+июн. 27, 2022 3:41:56 PM ServerOk lambda$main$0
+INFO: Клиент добавлен в мапу
+июн. 27, 2022 3:41:59 PM ServerOk lambda$main$0
+INFO: Пользователь: гоша
+Порт:52945

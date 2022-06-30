@@ -38,7 +38,7 @@ public class ServerOk extends DoingAll {
                             final var in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
                             final var out = new PrintWriter(new OutputStreamWriter(clientSocket.getOutputStream()), true);
                     ) {
-                        concurrentHashMap.put(clientSocket.getLocalPort(), clientSocket);
+                        concurrentHashMap.put(clientSocket.getPort(), clientSocket);
                         logger.info("Клиент добавлен в мапу");
                         out.println("Введите имя:");
 
